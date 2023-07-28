@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning at RS School
+🌱 I have strong website layout knowledge, using technologies such as HTML, CSS, Sass/SCSS, JavaScript (ECMA 6+), Node.js, Webpack, React/Redux and Vue.js/Vuex. I have an understanding of UI/UX, and I have worked with Photoshop and Figma. I am a team worker: I used to work as a customer-care agent for 2.5 years. Solving issues - it's a usual thing for me. I am orderly, hardworking and attentive to details.
 
 
 ## 🌐 Socials:
