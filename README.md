@@ -1,9 +1,3 @@
-### Hi there 👋
-
-# 💫 About Me:
-🌱 I have strong website layout knowledge, using technologies such as HTML5, CSS3, SCSS, and JavaScript (ECMA 6+). I have an understanding of UI/UX, and I have worked with Photoshop and Figma.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-teplova-b12b32248/) 
 
